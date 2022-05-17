@@ -52,3 +52,7 @@
     1. add cart link to header
     2. show cart items badge in header
     3. implement add to cart in home page
+15. Implement User Login API
+    1. create login api
+    2. use login api in login screen
+    3. implement logout
